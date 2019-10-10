@@ -1,2 +1,2 @@
-# advanced-css-and-sass
+# Advanced CSS and Sass
 Udemy course
