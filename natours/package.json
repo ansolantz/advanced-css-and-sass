@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "Landing page for natours",
   "devDependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   }
 }
